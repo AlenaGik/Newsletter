@@ -1,0 +1,126 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0px auto;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+.cabecera{
+margin-left: 250px;
+}
+.title{
+    width: 100%;
+    text-align: center;
+}
+
+.title span{
+    color:#d18e8f;
+}
+.title hr{
+    
+    border-width:1px;
+    border-style:dashed;
+    border-color:#518c9d;
+    width:100%;
+}
+ .title h2{
+    
+    text-align: center;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
+.title H1{
+    font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #d18e8f;
+    padding-top: 20px;
+    }
+   
+    .invitacion h3{
+        text-align: center;
+        font-weight: 520;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: #518c9d;  
+        padding: 5px; 
+    }
+    .invitacion h4{
+        text-align: center;
+        font-weight: 500;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: #d18e8f;  
+        padding: 5px;   
+    }
+    .invitacion h2{
+    text-align: center;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    color: #d18e8f;
+    }
+    .invitacion span{
+        color: #518c9d;
+    }
+   .horario hr{
+    border-width:1px;
+    border-style:dashed;
+    border-color:#d18e8f;
+    width:22%;
+   }
+   .rosita hr{
+    border-width:2px;
+    border-style:dashed;
+    border-color:#518c9d;
+    width:100%;
+   }
+
+   .rosita h2{
+    text-align: center;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+   }
+   .rosita span{
+    color:#d18e8f;
+   }
+   .horario h3{
+   text-align: center;
+    font-weight: 520;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #518c9d;  
+    padding: 5px;
+   }
+   
+   .land h3{
+    text-align: center;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #518c9d;  
+    
+   }
+   .land span{
+    color: #d18e8f;
+   }
+ 
+  .land .lila{
+        text-align: center;
+        font-weight: 300;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: #d18e8f; 
+   }
+   
+   .footer h4{
+    text-align: center;
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #518c9d;
+   }
+   .footer img{
+ align-items:center ;
+ margin-left: 120px;
+   }
